@@ -1,5 +1,5 @@
 ## Hi! i'm Sebastián 👋
-🔭 Currently, i'm working as a DevOps Engenieer with a PhD. José Luis Jara. I was working as a DevOps Engenieer and Backend Developer in a Startup which is called Hablaquí.
+🔭 Currently, i'm working as a DevOps Engineer with a PhD. José Luis Jara. I was working as a DevOps Engineer and Backend Developer in a Startup which is called Hablaquí.
 In addition, I am studying Software Engineering at Universidad de Santiago de Chile, I am in my 4th year. Finally, i'm telecommunication techinnical by profession.
 
 <br>
