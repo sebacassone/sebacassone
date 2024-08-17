@@ -2,17 +2,14 @@
 🔭 Currently, i'm working as a DevOps Engineer with a PhD. José Luis Jara. I was working as a DevOps Engineer and Backend Developer in a Startup which is called Hablaquí.
 In addition, I am studying Software Engineering at Universidad de Santiago de Chile, I am in my 4th year. Finally, i'm telecommunication techinnical by profession.
 
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sebacassone&theme=monokai&rank=S,AAA,AA,A,B,C&column=4&margin-w=10&no-bg=true&no-frame=true" alt="sebacassone"/>
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sebacassone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sebacassone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebacassone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats-eight-phi-42.vercel.app/api?username=sebacassone&show_icons=true&theme=monokai&locale=es&include_all_commits=true" alt="sebacassone" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sebacassone&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
   
 <p align="center">
   <a href="https://linkedin.com/in/sebacassone" target="blank">
