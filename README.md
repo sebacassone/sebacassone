@@ -1,6 +1,6 @@
 ## Hi! i'm Sebastián 👋
 🔭 Currently, i've been working as a DevOps Engineer with PhD. José Luis Jara. Previously, i was working as a DevOps Engineer and Backend Developer in a Startup which is called Hablaquí.
-In addition, i'm studying Software Engineering at Universidad de Santiago de Chile, i'm in my 4th year. Finally, i'm telecommunication techinnical by profession.
+In addition, i'm studying Software Engineering at Universidad de Santiago de Chile, i'm in my 3th year. Finally, i'm telecommunication techinnical by profession and i was the winner of the worldskills chile in the specialty of it network systems.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sebacassone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
