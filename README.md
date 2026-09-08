@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Ingeniería Civil en Informática** student at **Universidad de Santiago de Chile (USACH)**, one year from graduation, on a double-degree (Civil + Magíster) track.
+- 🎓 **Ingeniería Civil en Informática** student at **Universidad de Santiago de Chile (USACH)**, one year before graduation, with the intention of undertaking a dual-degree programme (Civil Engineering + Master’s).
 - 🏛️ Elected **Consejero Superior** at USACH — representing students on the university's highest governing body.
 - 🔬 Research assistant (**ayudantía**) under Prof. Miguel Cárcamo, exploring radiointerferometry / compressed sensing and distributed-systems approaches to wildfire-cause estimation, alongside an applied-AI project on institutional archives.
 - 💼 Backend & integration engineer at USACH — Go microservices and middleware for the institutional repository (DSpace).
